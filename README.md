@@ -1,18 +1,26 @@
-# React + Vite
+Bharat Clock 🕒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app that displays the current date and time in India (IST) and updates it in real time.
 
-Currently, two official plugins are available:
+This project is built as a tutorial follow-up to practice:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React components
+State management
+Time handling in JavaScript
+Clean JSX structure
 
-## React Compiler
+Features
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+Shows current Indian date & time
+Auto-updates every second
+Minimal and beginner-friendly UI
+No external libraries used
 
-Note: This will impact Vite dev & build performances.
+Tech Stack
 
-## Expanding the ESLint configuration
+React
+JavaScript
+CSS
+Vite (development server)
+<img width="1920" height="1032" alt="Screenshot 2025-12-20 233826" src="https://github.com/user-attachments/assets/637c657b-b252-4a3c-a4d0-04df871025ac" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
